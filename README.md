@@ -1,4 +1,4 @@
-# Hybrid AI Car Driving Simulator
+# 2D Hybrid AI Car Driving Simulator
 Hybrid Intelligence for Safer Autonomous Driving
 A 2D autonomous driving simulator that proves why Hybrid AI (Rules + ML + RL) is safer and more reliable than Pure Machine Learning for autonomous vehicles.
 
